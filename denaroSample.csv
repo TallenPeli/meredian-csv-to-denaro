@@ -1,0 +1,2 @@
+ID;Date (en_US Format);Description;Type;RepeatInterval;RepeatFrom (-1=None,0=Original,Other=Id Of Source);RepeatEndDate (en_US Format);Amount (en_US Format);RGBA;UseGroupColor (0 for false, 1 for true);Group(Id Starts At 1);GroupName;GroupDescription;GroupRGBA;Tags
+1;1/1/2001;Sample Name;0;0;-1;;100;rgb(53,132,228);1;5;School Savings;Money saved for education (20%);rgb(192,97,203);
