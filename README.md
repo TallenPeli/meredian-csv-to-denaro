@@ -10,19 +10,6 @@ The financial transactions are categorized into five groups, each with its own p
 3. **Free Spend (20%):** Money that can be freely spent.
 4. **Insurance (10%):** Money set aside for insurance.
 
-## CSV File Format
-
-### Groups Information
-
-```csv
-GROUPID;GROUPNAME;GROUPDESCRIPTION
-1, 5;School Savings;Money saved for education (20%)
-2, 2;Savings;Money that is saved for large purchases (15%)
-3, 1;Free Spend;Money that I can freely spend (40%)
-4, 3;Tithe;Money to donate (10%)
-5, 4;Insurance;Money set aside for insurance (15%)
-```
-
 ### Transaction Information
 
 ```csv
