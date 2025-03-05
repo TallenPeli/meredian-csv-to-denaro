@@ -5,11 +5,10 @@ This Python script serves as a tool for tracking financial transactions, allowin
 
 The financial transactions are categorized into five groups, each with its own percentage allocation:
 
-1. **School Savings (20%):** Money saved for education.
-2. **Savings (15%):** Money saved for large purchases.
-3. **Free Spend (40%):** Money that can be freely spent.
-4. **Tithe (10%):** Money allocated for donations.
-5. **Insurance (15%):** Money set aside for insurance.
+1. **School Savings (50%):** Money saved for education.
+2. **Savings (20%):** Money saved for large purchases.
+3. **Free Spend (20%):** Money that can be freely spent.
+4. **Insurance (10%):** Money set aside for insurance.
 
 ## CSV File Format
 
